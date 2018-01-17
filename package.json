@@ -1,0 +1,19 @@
+{
+  "name": "@zeklouis/iut-encrypt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZekLouis/iut-encrypt.git"
+  },
+  "author": "Louis GAUME",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZekLouis/iut-encrypt/issues"
+  },
+  "homepage": "https://github.com/ZekLouis/iut-encrypt#readme"
+}
